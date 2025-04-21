@@ -1,10 +1,7 @@
 # Alexron_Robot
 
 
-<video width="500" height="300" controls>
-  <source src="0421.mp4" type="video/mp4">
-  الفيديو ما اشتغلش، جرب تحمّله.
-</video>
+[![الأليكساترون كامل](https://raw.githubusercontent.com/ashrafsobhi/Alexron_Robot/main/images/alexatron_thumbnail.jpg)](https://raw.githubusercontent.com/ashrafsobhi/Alexron_Robot/main/0421.mp4)
 
 ---
 
